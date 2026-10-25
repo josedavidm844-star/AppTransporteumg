@@ -1,0 +1,17 @@
+umg\DAO\CamioneroCamionDAO.class
+umg\UI\MenuPrincipal.class
+umg\DAO\CamioneroDAO.class
+umg\UI\PruebaPaquete.class
+umg\DAO\ConexionDB.class
+umg\UI\AppTransporteUmg.class
+umg\modelo\Camion.class
+umg\DAO\CiudadDAO.class
+umg\modelo\Paquete.class
+umg\modelo\Camionero.class
+umg\modelo\CamioneroCamion.class
+umg\UI\Entrada.class
+umg\DAO\PaqueteDAO.class
+umg\UI\PruebaAsignacion.class
+umg\modelo\Ciudad.class
+umg\UI\PruebaCamionero.class
+umg\DAO\CamionDAO.class
